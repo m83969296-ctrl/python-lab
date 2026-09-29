@@ -19,4 +19,4 @@ I'm learning Python to work in AI one day.
 - Work at OpenAI / Google one day
 
 ## 🏎️ My Dream Car:
-BMW M4 F82 CS
+BMW M4 CS
